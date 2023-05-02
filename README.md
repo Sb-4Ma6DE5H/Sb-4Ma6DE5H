@@ -1,5 +1,12 @@
-<img src=https://i.ibb.co/YjgmKsC/Text-Pro-me-163490782bfdbc.jpg>
 
+
+<div style="text-align: center;">
+    <img src="https://tenor.com/en-GB/view/nico-robin-gif-22796522.gif" alt="GIF"
+        style="width: 100vw; height: auto;" />
+
+<!--     <img src=https://i.ibb.co/YjgmKsC/Text-Pro-me-163490782bfdbc.jpg > -->
+
+</div>
 ### Hi i'm lamiiz 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamiiz;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
