@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
     <img src="https://tenor.com/en-GB/view/nico-robin-gif-22796522.gif" alt="GIF"
-        style="width: 100vw; height: auto;" />
+        style="width: 100vw; height: 100vh;" />
      <img src=https://i.ibb.co/YjgmKsC/Text-Pro-me-163490782bfdbc.jpg >
 
 </div>
