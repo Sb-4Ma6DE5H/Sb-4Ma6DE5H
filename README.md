@@ -91,3 +91,31 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+<p align="left">social medias!!</p>
+
+###
+
+<img align="left" height="80" src="https://media.giphy.com/media/oHgEVQfGJsOvmUfFdP/giphy-downsized-large.gif"  />
+
+###
+
+<img align="left" height="80" src="https://media.giphy.com/media/YwNCU8P5jGMNKGG5Bq/giphy-downsized-large.gif"  />
+
+###
+
+<img align="left" height="76" src="https://media.giphy.com/media/9FbLcp4NnluxdR6EyZ/giphy-downsized-large.gif"  />
+
+###
+
+<img align="left" height="80" src="https://media.giphy.com/media/DRinNvjCXc5Iexx0CH/giphy-downsized-large.gif"  />
+
+###
+
+<img align="left" height="80" src="https://media.giphy.com/media/59GNEvlKKTazga4XT2/giphy-downsized-large.gif"  />
+
+###
+
+<img align="left" height="80" src="https://media.giphy.com/media/jZx79DBot2ziNQIQXz/giphy-downsized-large.gif"  />
+
+###
