@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="650" src="https://media.giphy.com/media/VP35hLrdpMOiI/giphy.gif"  />
+  <img height="650" src="##https://media.giphy.com/media/VP35hLrdpMOiI/giphy.gif"  />
 </div>
 
 ###
